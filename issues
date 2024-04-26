@@ -1,0 +1,3 @@
+This smart contract creates an ERC-20 compliant token. It defines basic token information such as name, symbol, and decimals. Additionally, it includes functions to manage the total supply, balances, transfers, and allowances of the token.
+
+Before deploying this code to a testnet or the Ethereum mainnet, it should be thoroughly tested. Any mistake during the smart contract development process can lead to security vulnerabilities or unexpected behavior in your token, so it's important to proceed with caution.
